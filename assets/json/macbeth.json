@@ -1,0 +1,34 @@
+[
+	[
+		{
+			"speaker" : "malcolm",
+			"dialog" : "Cousins, I hope the days are near at hand That chambers will be safe..",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "menteith",
+			"dialog" : "We doubt it nothing.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "siward",
+			"dialog" : "What wood is this before us?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "menteith",
+			"dialog" : "The wood of Birnam.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "malcolm",
+			"dialog" : "Let every soldier hew him down a bough and bear't before him: thereby shall we shadow The numbers of our host and make discovery Err in report of us",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "soldiers",
+			"dialog" : "It shall be done.",
+			"newSpeaker" : "true"
+		}
+	]
+]
